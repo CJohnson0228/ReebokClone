@@ -1,0 +1,51 @@
+[
+  {
+    "index": 0,
+    "title": "Classic Leather Legacy AZ Shoes",
+    "description": "Gold",
+    "type": "Classics",
+    "recycled": true
+  },
+  {
+    "index": 1,
+    "title": "Classic Leather Legacy AZ Shoes",
+    "description": "Grey",
+    "type": "Classics",
+    "recycled": true
+  },
+  {
+    "index": 2,
+    "title": "Classic Leather Legacy AZ Shoes",
+    "description": "White",
+    "type": "Classics",
+    "recycled": true
+  },
+  {
+    "index": 3,
+    "title": "Classic Leather Legacy Shoes",
+    "description": "Beige",
+    "type": "Classics",
+    "recycled": false
+  },
+  {
+    "index": 4,
+    "title": "Classic Leather Legacy Shoes",
+    "description": "Black",
+    "type": "Classics",
+    "recycled": false
+  },
+  {
+    "index": 5,
+    "title": "Classic Leather Legacy Shoes",
+    "description": "Black",
+    "type": "Classics",
+    "recycled": false
+  },
+  {
+    "index": 6,
+    "title": "Classic Leather Legacy Shoes",
+    "description": "Grey",
+    "type": "Classics",
+    "recycled": false
+  }
+]
