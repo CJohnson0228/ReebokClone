@@ -14,8 +14,11 @@ import ShoeImage4 from '../assets/img/Classic_Leather_Legacy_Shoes_Beige_S24173_
 import ShoeImage5 from '../assets/img/Classic_Leather_Legacy_Shoes_Black_FY7377_01_standard.jpg';
 import ShoeImage6 from '../assets/img/Classic_Leather_Legacy_Shoes_Black_S24169_01_standard.jpg';
 import ShoeImage7 from '../assets/img/Classic_Leather_Legacy_Shoes_Grey_FY7748_01_standard.jpg';
+import ShoeImage8 from '../assets/img/Jelly_Belly_Classic_Leather_Legacy_Shoes_Grey_GW3376_01_standard.jpg';
+import ShoeImage9 from '../assets/img/National_Geographic_Classic_Leather_Legacy_AZ_Shoes_Beige_GY1195_01_standard.jpg';
+import ShoeImage10 from '../assets/img/Classic_Leather_Legacy_Shoes_White_S24170_01_standard.jpg';
 
-const ShoeArray = [ShoeImage1, ShoeImage2, ShoeImage3, ShoeImage4, ShoeImage5, ShoeImage6, ShoeImage7]
+const ShoeArray = [ShoeImage1, ShoeImage2, ShoeImage3, ShoeImage4, ShoeImage5, ShoeImage6, ShoeImage7, ShoeImage8, ShoeImage9, ShoeImage10]
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -61,7 +64,7 @@ function ShoeCard(props) {
   
   return (
     <Card className={classes.root}>
-      <CardMedia className={classes.media}><img src={image} alt="Classic Leather"/></CardMedia>
+      <CardMedia className={classes.media}><img src={image} alt={props.info.title}/></CardMedia>
       <FavoriteBorderIcon className={classes.overlayFavorite} />
       <Typography className={classes.overlayPrice}>$80</Typography>
       <CardContent>

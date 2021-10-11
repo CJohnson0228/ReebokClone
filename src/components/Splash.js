@@ -12,14 +12,17 @@ const useStyles = makeStyles((theme) => ({
   box: {
     backgroundSize: 'cover',
     backgroundPosition: 'center',
-    height: 'calc(100vh - 130px)',
+    height: '100%',
+    minHeight: 'calc((80vw * 9) / 16)',
     width: '100vw',
+    position: 'relative',
   },
   fractals: {
     color: '#fff',
-    position: 'relative',
+    position: 'absolute',
     top: '20%',
-    width: '90vw',
+    left: '100px',
+    width: '80vw',
     margin: 'auto',
   },
   button: {
@@ -33,8 +36,8 @@ const useStyles = makeStyles((theme) => ({
     }
   },
   reebokImg: {
-    maxHeight: '60vh',
-    maxWidth: '60vw',
+    height: '60%',
+    width: '60%',
   }
 }));
 

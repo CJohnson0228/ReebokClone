@@ -47,5 +47,26 @@
     "description": "Grey",
     "type": "Classics",
     "recycled": false
+  },
+  {
+    "index": 7,
+    "title": "Jelly Belly Classic Leather Shoes",
+    "description": "Grey",
+    "type": "Classics",
+    "recycled": false
+  },
+  {
+    "index": 8,
+    "title": "National Geographic Classic Leather Shoes",
+    "description": "Beige",
+    "type": "Classics",
+    "recycled": true
+  },
+  {
+    "index": 9,
+    "title": "Classic Leather Legacy Shoes",
+    "description": "White",
+    "type": "Classics",
+    "recycled": true
   }
 ]

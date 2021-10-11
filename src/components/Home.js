@@ -21,9 +21,6 @@ function Home() {
       <PopLinks />
       <Departments />
       <NewArrivals />
-      <ShopFeatures />
-      <Trends />
-      <Gifts />
       <Unlocked />
       <FeedbackModal>Feedback</FeedbackModal>
     </div>
