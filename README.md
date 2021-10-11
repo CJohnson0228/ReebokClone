@@ -1,3 +1,14 @@
+This is a Clone of the Reebok Site Homepage, that I used to practice with React.js, Material-UI, and CSS. My intent was to further my understanding and ability with Material UI and get as close to the functionailty and asthetic of the original site as possible. 
+
+Images and Video Assets that I didn't feel comfortable copying from the site for obvious copyright reasons were replaced with stock photos and video. The appropriate artists have been attributed here.
+
+Images for products were copied from the original website for educational and demonstration use only, they were used to simulate the product display elements of the site.
+
+Currently the product carousels do not work properly, the function is correct but the movement is off, it is next on my slate to fix.
+
+No infringement of copyrighted material was intended in the project though proprietary images may have been used to demonstrate coding layout and visual representation of the code utilized. 
+This build is not intended for production.
+
 Video attribute:
 http://www.videvo.net
 
@@ -70,32 +81,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
